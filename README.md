@@ -1,5 +1,7 @@
 # Apresentaçao
 
-#Meu nome é MARIA EDUARDA ACYOLE#
-cursando Desenvolvimento de sistemas -> Etec Paulistano
+# Meu nome é MARIA EDUARDA ACYOLE #
+Cursando Desenvolvimento de sistemas -> Etec Paulistano
 Desenvolvedora Junior  
+
+## Modulo I TPA-PW-BD-APS-DD-FI ##
