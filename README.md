@@ -1,6 +1,6 @@
 # Apresentaçao
 
-# Meu nome é MARIA EDUARDA ACYOLE #
+# Meu nome é MARIA EDUARDA ACYOLE  :sunglasses:	
 Cursando Desenvolvimento de sistemas -> Etec Paulistano
 Desenvolvedora Junior  
 
